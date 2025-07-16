@@ -1,0 +1,6 @@
+1. Create project templates by executing template.py file.
+2. Write the code on setup.py and pyproject.toml file to import local packages
+
+username : shreyankkasabale
+password : 6fWvPKhILmI6gdPF
+connection string : mongodb+srv://shreyankkasabale:<db_password>@cluster0.litfen6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
